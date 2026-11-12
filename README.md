@@ -37,3 +37,7 @@ As edições de títulos, anotações e ajustes de tempo são salvas apenas no n
 O marcador usa referências visuais do vídeo a cada cinco segundos e interpolação entre as referências. É um auxílio de estudo, com precisão aproximada; não é uma transcrição de cada ataque individual. O ajuste global permite adiantar ou atrasar o acompanhamento.
 
 O vídeo é reproduzido pelo player do YouTube; não é armazenado neste repositório. Partituras e imagens da música foram fornecidas pelo usuário. Nenhuma licença de redistribuição dessas obras é concedida por este projeto.
+
+## Like a Stone — Audioslave
+
+Segunda música do catálogo, na versão de bateria para iniciantes do vídeo fornecido. A partitura é acompanhada no próprio player original do YouTube; não há imagens separadas nem marcador externo para esta música. A página inclui anotações salvas no navegador.

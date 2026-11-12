@@ -10,5 +10,16 @@
     "duracao": "3:28",
     "pagina": "musicas/tnt-acdc/",
     "video": "https://www.youtube.com/watch?v=9D4o_T33Brw"
+  },
+  {
+    "id": "like-a-stone-audioslave",
+    "titulo": "Like a Stone",
+    "artista": "Audioslave",
+    "estilo": "Rock",
+    "duracao": "4:57",
+    "nivel": "Iniciante",
+    "pagina": "musicas/like-a-stone-audioslave/",
+    "video": "https://www.youtube.com/watch?v=Jsy2qYa-U3Q",
+    "formato": "Partitura no vídeo"
   }
 ]
