@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tnt-acdc",
+    "titulo": "T.N.T.",
+    "artista": "AC/DC",
+    "estilo": "Rock",
+    "bpm": 127,
+    "compasso": "4/4 e 2/4",
+    "trechos": 27,
+    "duracao": "3:28",
+    "pagina": "musicas/tnt-acdc/",
+    "video": "https://www.youtube.com/watch?v=9D4o_T33Brw"
+  }
+]
